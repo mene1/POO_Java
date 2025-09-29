@@ -1,2 +1,2 @@
 # POO
-Atividades relacionadas a Programação Orientada a Objetos em C++
+Atividades relacionadas a Programação Orientada a Objetos em Java
