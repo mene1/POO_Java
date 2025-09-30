@@ -1,2 +1,2 @@
 # POO
-Atividades relacionadas a Programação Orientada a Objetos em Java
+Programas relacionados a discilpina de Programação Orientada a Objetos em Java
